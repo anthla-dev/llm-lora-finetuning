@@ -1,7 +1,5 @@
 # LLM Fine-Tuning with LoRA
 
-Built at the SCAI Jam Mini-Hackathon at UC Santa Cruz.
-
 ## What it does
 Fine-tunes a Qwen2.5-0.5B language model using LoRA (Low-Rank Adaptation) on the
 Databricks Dolly 15k instruction dataset. Training metrics are tracked in real time
